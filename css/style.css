@@ -1,14 +1,16 @@
+@import url('https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css');
 body {
     font: 20px Arial, sans-serif;
+    
 }
 
 .navbar {
-    background-color: #98FB98;
+    background-color: #D8849E;
 }
 
 .quem-somos {
-    background-color: #40E0D0;
-    color: white;
+    background-color: #ede9dd;
+    color: #D8849E;
 }
 
 .margin {
@@ -17,7 +19,13 @@ body {
 }
 
 .parceiros {
-    background-color: #DFFF00;
+    background-color: #D8849E;
+    color: #ede9dd;
+}
+.servicos{
+    color: #D8849E;
+    background-color: #ede9dd;
+    
 }
 
 .bg-footer {
